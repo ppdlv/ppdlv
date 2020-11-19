@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ppdlv/ppdlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**ppdlv/ppdlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm Paul - aka [ppdlv] 👋
+
+## I'm an IT Specialist and a wannabe developer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Learn everything there is about my job and hobbies
+- ⚡ Fun fact: I love to game, longboard and to travel
+
+![pxdlima's github stats](https://github-readme-stats.vercel.app/api?username=pxdlima&show_icons=true&theme=dark)
