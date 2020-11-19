@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Learn everything there is about my job and hobbies
 - ⚡ Fun fact: I love to game, longboard and to travel
 
-![pxdlima's github stats](https://github-readme-stats.vercel.app/api?username=pxdlima&show_icons=true&theme=dark)
+![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
