@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Paul - aka [ppdlv] 👋
+### Hi, I'm Peter - aka [ppdlv] 👋
 
-## I'm an IT Specialist and a wannabe developer!!
+## An IT Specialist during the day and a Wannabe Developer @ night!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn everything there is about my job and hobbies
-- ⚡ Fun fact: I love to game, longboard and to travel
+- 🥅 2021 Goals: Learn everything there is about my job and hobbies
+- ⚡ Fun fact: I love to break things and write code scribbles. 🤔
 
 ![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
