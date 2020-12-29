@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Peter - aka [ppdlv] 👋
 
-## An IT Specialist during the day and a Wannabe Developer @ night!!
+## IT Specialist during the day and a wannabe Developer @ night!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn everything there is about my job and hobbies
