@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Working on Cloudstack and Azure 🤣
-- 🥅 2021 Goals: Learn everything there is about my job and hobbies
-- ⚡ Fun fact: I love to break things and write code scribbles. 🤔
+- 🌱 Introduced to Azure since 2019🔭
+- 🥅 2022 Goals: Learn more Cyber Security and maybe switch profession. 
+- ⚡ Fun fact: I love to break things especially working code. 🤔
 
 ![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
