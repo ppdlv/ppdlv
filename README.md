@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Introduced to Azure since 2019🔭
-- 🥅 2022 Goals: Learn more Cyber Security and maybe switch profession. 
-- ⚡ Fun fact: I love to break things especially working code. 🤔
+- 🌱 Using Azure since 2018 but have used cloud machines since 2012. 🔭
+- 🥅 2022 Goals: Learn more about Cloud Security. 🌱
+- ⚡ Fun fact: I love to break working codebases. 😄
 
 ![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
