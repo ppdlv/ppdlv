@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Using Azure since 2018 but have used cloud machines since 2012. 🔭
-- 🥅 2022 Goals: Learn more about Cloud Security. 🌱
-- ⚡ Fun fact: I love to break working codebases. 😄
+- 🌱 Started my cloud journey in 2012 with Digial Ocean. 🔭
+- 🥅 2022 Goals: Cloud Security. 🌱
+- ⚡ Fun fact: Loves breaking working codebase. 😄
 
 ![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
