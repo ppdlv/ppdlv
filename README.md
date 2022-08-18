@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Started my cloud journey in 2012 with Digial Ocean. 🔭
-- 🥅 2022 Goals: Cloud Security. 🌱
-- ⚡ Fun fact: Loves breaking working codebase. 😄
+- 🌱 I’m currently learning Go and App Architecture.
+- 🥅 2022 Goals: Cloud Security. 📫
+- 💬 Ask me about Science and Computers!
 
 ![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
