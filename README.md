@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Go and Data-driven Architecture.
-- 🥅 2023 Goals: Cloud Security
+- 🌱 I’m currently learning Cloud Security.
+- 🥅 2024 Goals: CCSP – Certified Cloud Security Professional - (ISC)²
 - 💬 Ask me about Life, Science and Philosophy!
 
 ![ppdlv's github stats](https://github-readme-stats.vercel.app/api?username=ppdlv&show_icons=true&theme=dark)
